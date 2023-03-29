@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(162, 190, 209, 0.61);
+    text-align: center;
+}
+
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 83%;
+    margin: 10px auto 10px auto;
+    font-size: 19px;
+    
+    
+    
+}
+p{
+    width: 85%;
+    margin: 0 auto 0px auto;
+    padding-bottom: 50px;
+    font-size: medium;
+    color: rgba(99, 105, 105, 0.932);
+} 
+
+
+
+
+/*****************Tags****************************/
+
+
+.QR {
+    
+    width: 90%;
+    border-radius: 10px;   
+    margin: 12px 10px 0 10px;
+
+}
+.qr-box {
+    background-color:rgb(255, 255, 255);
+    width: 15%;
+    border-radius: 10px;   
+    margin: 200px auto 100px auto;
+    box-shadow: 0px 1px 15px 0px rgb(139, 146, 146);
+}
